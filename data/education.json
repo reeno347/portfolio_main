@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Semarang State Polytechnic",
+		"logo": "images/polines-logo.png",
+        "major": "D3 Electronic Engineering",
+        "year": "2022 - Present",
+        "description": "GPA 3,43 of 4.0"
+    },
+    {
+        "university": "Palapa Vocational High School Semarang",
+		"logo": "images/palapa-logo.jpg",
+        "major": "Computer and Network Engineering",
+        "year": "2019 - 2022",
+        "description": "GPA 83,43 of 100"
+    }
+]

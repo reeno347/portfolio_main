@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Water Monitoring System Based on Internet of Things (IoT) Using Telegram Application",
+        "year": "2024",
+        "partner": "Azra",
+        "role": "Lead Engineer",
+        "description": "Developed a monitoring system for water ph and water turbidity to determine whether the water is suitable for consumption.",
+        "image": "images/project1.jpg",
+        "link": "https://example.com/water-monitoring"
+    },
+    {
+        "title": "Web & IoT Based Human Heart Rate and Body Temperature Monitoring",
+        "year": "2024",
+        "partner": "Cindy, Firda, Azra",
+        "role": "Technical Engineer",
+        "description": "Developing a monitoring system for heart rate, body temperature and sp2o detection by connecting to the web.",
+        "image": "images/project2.jpg",
+        "link": "https://example.com/heart-rate-monitoring"
+    },
+	{
+        "title": "PWM Motor Generator Using IC LM 358",
+        "year": "2025",
+        "partner": "Japar, Rama",
+        "role": "Engineer",
+        "description": "Implementing PWM Motor Generator using IC LM358.",
+        "image": "images/project3.jpg",
+        "link": "https://example.com/pwm-motor-generator-lm358"
+    },
+    {
+        "title": "PWM Motor Generator Using IC NE 555",
+        "year": "2025",
+        "partner": "Japar, Rama",
+        "role": "Engineer",
+        "description": "Implementing PWM Motor Generator using IC NE555.",
+        "image": "images/project4.jpg",
+        "link": "https://example.com/pwm-motor-generator-ne555"
+    }
+]

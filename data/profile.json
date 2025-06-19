@@ -1,0 +1,40 @@
+{
+    "name": "Rheno Alvaro Dheo Syavana - Electronic Student",
+    "description": "D3 Electronics Engineering student who has a strong interest and ability in electronics and control systems. My strengths lie in good analytical skills, in-depth understanding of electronic circuits, and practical skills in the use of measuring instruments and microcontroller devices. I also have a high passion for learning and am able to work both independently and in teams to complete projects and assignments in a timely manner. In addition, I am used to thinking critically and finding innovative solutions to technical problems.",
+    "profileImage": "images/profile.jpg",
+    "email": "rhenoalvaro56@gmail.com",
+    "phone": "+62 831-4940-8299",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/rheno-alvaro-02b7b3310"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/rhenoalvaro"
+        },
+        {
+            "platform": "Twitter",
+            "url": " https://x.com/rheno_alvaro"
+        },
+        {
+            "platform": "Instagram",
+            "url": " https://www.instagram.com/rhinoceros.x_x"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Data Entry Specialist", "icon": "fas fa-keyboard", "level": 90},
+        {"name": "Web Programming", "icon": "fas fa-code", "level": 65},
+        {"name": "PCB Designer", "icon": "fas fa-microchip", "level": 90},
+        {"name": "3D Modelling", "icon": "fas fa-cube", "level": 70},
+        {"name": "Instrumentation Tools", "icon": "fas fa-tools", "level": 80},
+        {"name": "Internet Network Installation", "icon": "fas fa-network-wired", "level": 75},
+        {"name": "Server Administration", "icon": "fas fa-server", "level": 65},
+        {"name": "Foreign Languages", "icon": "fas fa-language", "level": 80}
+    ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "company": "PT. Jasa Teknik Indonesia",
+		"logo":"images/jastek-logo.jpg",
+        "position": "K3 Expert Assistant",
+        "year": "September - Desember 2024",
+        "description": "As a K3 Expert Assistant, I was active Assist with daily administrative tasks, including filing, document management, and report preparation, Assist OHS Specialists to conduct inspections and tests,Perform data entry and ensure accuracy and completeness of inputted information."
+    },
+	{
+        "company": "Itqon Computindo",
+        "position": "Computer Technician",
+        "year": "September - November 2021",
+        "description": "As a Computer Technician, I am active Perform repair and maintenance of computer hardware (PC, laptop, printer). Install operating systems, applications, and software updates according to user needs, diagnose device malfunctions and provide repair solutions efficiently, manage spare parts stock and record routine maintenance activities for IT devices."
+    }
+    
+]
